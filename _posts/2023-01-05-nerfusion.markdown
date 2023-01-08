@@ -6,6 +6,6 @@ image: /images/nf1.png
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
-code: https://github.com/aaronlsmiles/StereoPerception
+code: 
 ---
 Exploring diffusion with natural language and editable neural radiance fields (NeRF) in 3D reconstructed robotic environments towards understanding applications in human-robot interaction.
