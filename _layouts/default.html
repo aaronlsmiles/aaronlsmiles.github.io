@@ -170,8 +170,8 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-            <!--  <h2>Other Projects</h2>
-              <p> These include coursework, side projects and unpublished research work. 
+            <h2>Misc Design Work</h2>
+              <p> These include smaller side projects, idea dumps, and unpublished design, marketing, and advertising (D&AD) briefs mockups. 
               </p>
             </td>
           </tr>
@@ -180,10 +180,10 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
+          {% if cat == 'design' or != 'cv' and cat != 'projects' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
