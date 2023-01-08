@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Real-time Box Measurement"
+title:  ["Real-time Box Measurement"](https://www.youtube.com/watch?v=ZZvZVaBFpYE)
 date:   2015-04-08 21:21:53 +00:00
 image: /images/box.jpg
-categories: Intel
+categories: projects
 author: "Leo Keselman"
 subtitle: "Real-time measurement of rectangular prisms"
 video: https://www.youtube.com/watch?v=ZZvZVaBFpYE
