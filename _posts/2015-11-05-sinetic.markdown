@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Sinetic AV: VR audio-visual production interface"
+date:   2015-11-05 22:21:59 +00:00
+image: /images/sine1.png
+categories: projects
+patent: https://patents.google.com/patent/WO2016071697A1/en
+video: https://vimeo.com/155418055
+---
+Sinetic AV was a VR and gesture-controlled spatial audio-visual production software. 
