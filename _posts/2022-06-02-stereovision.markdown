@@ -6,9 +6,6 @@ image: /images/sv1.png
 categories: sv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
-venue: 
-arxiv: 
-slides: 
 code: https://github.com/aaronlsmiles/StereoPerception
 ---
 Using an experimental stereo vision camera rig to obtain object depth in land-based and underwater experiments for providing mixed reality feedback to remote robot operators. User studies will be performed using a haptic glove and stereoscopic screen with a simulated robotic manipulator.  
