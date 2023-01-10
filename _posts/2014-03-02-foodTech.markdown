@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Food Technology Designs
-course: 
+course: D&AD/Intellectual Ventures
 date: 2014-03-02 22:21:59 +00:00
 image: /images/food1.png
 image2: /images/food2.png
