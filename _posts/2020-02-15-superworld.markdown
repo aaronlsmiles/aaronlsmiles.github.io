@@ -14,5 +14,5 @@ image8: /images/sw10.png
 categories: projects
 patent: 
 video: 
-document: /pdfs/
+document:
 ---
