@@ -15,5 +15,5 @@ categories: projects
 patent: 
 video: 
 document: /pdfs/VMbizPlan.pdf
-sheet: /pdfs/VMFinModel FINAL.xlsx
+sheets: /pdfs/VMFinModel FINAL.xlsx
 ---
