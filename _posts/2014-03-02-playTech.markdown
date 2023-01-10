@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Play Technology Designs
+course: 
+date: 2014-03-02 22:21:59 +00:00
+image: /images/lego1.png
+image2: /images/toy1.png
+image3: /images/toy2.png
+image4:
+image5:
+image6:
+categories: design
+video: 
+document:
+---
+A sample of different play technology concept designs I created for fun.
