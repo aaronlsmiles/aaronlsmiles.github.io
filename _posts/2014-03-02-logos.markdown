@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  The Atom
-course: Sinetic AV LTD
-date:   2013-06-06 22:21:59 +00:00
-image: /images/sine3.png
-image2: /images/sine4.png
-image3: 
-image4: 
-image5: 
+title:  Logo designs
+course: 
+date:   2014-03-02 22:21:59 +00:00
+image: /images/logos/sineLogos1.png
+image2: /images/logos/sineLogos2.png
+image3: /images/logos/sineLogos3.png
+image4: /images/logos/sineLogos5.png
+image5: /images/logos/VMlogos.png
 image6: 
 categories: design
 video: 
