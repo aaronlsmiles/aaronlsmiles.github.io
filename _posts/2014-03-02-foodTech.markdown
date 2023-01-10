@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Food Technology Designs
+course: 
+date: 2014-03-02 22:21:59 +00:00
+image: /images/logos/food1.png
+image2: /images/logos/food2.jpg
+image3: /images/logos/food3.jpg
+image4: /images/logos/food4.jpg
+image5: /images/logos/food5.png
+image6: /images/logos/food6.png
+categories: design
+video: 
+document:
+---
+A sample of different food technology concept designs I created as part of different briefs for D&AD and Intellectual Ventures.
