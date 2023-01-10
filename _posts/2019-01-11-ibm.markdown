@@ -1,0 +1,11 @@
+---
+layout: post
+title: Battle of the Neighbourfoods
+date:   2022-06-02 22:21:59 +00:00
+image: /images/battle1.png
+categories: projects
+author:
+authors: 
+code: https://github.com/aaronlsmiles/IBM-Foursquare-API-Capstone
+---
+Using an experimental stereo vision camera rig to obtain object depth in land-based and underwater experiments for providing mixed reality feedback to remote robot operators. User studies will be performed using a haptic glove and stereoscopic screen with a simulated robotic manipulator.  
