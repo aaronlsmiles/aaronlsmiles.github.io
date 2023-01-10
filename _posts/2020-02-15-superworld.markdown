@@ -16,3 +16,4 @@ patent:
 video: 
 document:
 ---
+Whilst interning at SuperWorld as a Product Manager, I worked on the AR and NFT Real Estate Map. 
