@@ -3,9 +3,9 @@ layout: post
 title: The Atom
 course: Sinetic AV LTD
 date: 2013-06-06 22:21:59 +00:00
-image: /images/sine3.png
-image2: /images/sine4.png
-image3: 
+image: /images/atomMS.png
+image2: /images/sine3.png
+image3: /images/sine4.png
 image4: 
 image5: 
 image6: 
