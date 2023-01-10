@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sinetic AV - VR Visual-Audio Production Interface
-date:   2015-11-05 22:21:59 +00:00
+date:   2011-2017
 image: /images/sine1.png
 categories: projects
 patent: https://patents.google.com/patent/WO2016071697A1/en
