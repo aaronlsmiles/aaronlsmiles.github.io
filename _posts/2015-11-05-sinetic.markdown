@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sinetic AV - VR Visual-Audio Production Interface
+course: Sinetic AV LTD
 date:   2011-2017
 image: /images/sine1.png
 categories: projects
