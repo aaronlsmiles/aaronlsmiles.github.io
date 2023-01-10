@@ -1,6 +1,7 @@
 ---
 layout: post
 title: <i>The Final Fantasy</i> Game Design
+course: personal
 date: 2008-11-17 11:11:11 +00:00
 image: /images/FFfront.jpg
 image2:
