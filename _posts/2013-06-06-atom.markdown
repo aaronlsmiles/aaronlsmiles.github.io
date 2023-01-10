@@ -13,4 +13,4 @@ categories: design
 video: 
 document:
 ---
-Whilst interning at SuperWorld as a Product Manager, I worked on the AR and NFT Real Estate Map. 
+The Atom was a spherical sound system concept born whilst developing Sinetic AV and imagining the best arena in which to perform music produced in the immersive Sinetic environment.
