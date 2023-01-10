@@ -1,0 +1,16 @@
+---
+layout: post
+title:  The Atom
+course: Sinetic AV LTD
+date:   2013-06-06 22:21:59 +00:00
+image: /images/sine3.png
+image2: /images/sine4.png
+image3: 
+image4: 
+image5: 
+image6: 
+categories: design
+video: 
+document:
+---
+Whilst interning at SuperWorld as a Product Manager, I worked on the AR and NFT Real Estate Map. 
