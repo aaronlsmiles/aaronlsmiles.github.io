@@ -8,4 +8,10 @@ patent: https://patents.google.com/patent/WO2016071697A1/en
 video: https://vimeo.com/155418055
 document: /pdfs/sineIPV_20Oct2015.pdf
 ---
-Sinetic AV was a VR and gesture-controlled spatial audio-visual production software. 
+Sinetic AV was a VR and gesture-controlled spatial visual-audio production software, for making spatial music in an immersive visual environment using visual objects <i>moulded</i> by hand. Visual properties, such as colour and shape, corresponded to audio prperties, such as frequency and sound wave shape, respectively. 
+
+The entire environment was the soundstage and objects would occupy the soundstage as they were visually (e.g., larger objects would take up more of the soundstage) and the creator could walk around the sound stage, hearing their creation from different listening perspectives. They could also join together multiple environments (soundstages) to create an extended track or album that they could walk around in order to progress the musical piece.
+
+The environment and objects featured real world physics (e.g., mass, gravity, magnetism, etc.) and could be interacted with or animated given such properties.
+
+The IP at the time was independently valued by Coller IP at over £69,000 (see <i>document</i>). This was heavily reduced by 25-45% due to early-stage risk factors and the fact the software was a very basic prototype. Not a bad valuation from a spend of £8000 to create the IP.
