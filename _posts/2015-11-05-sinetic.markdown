@@ -4,6 +4,7 @@ title:  Sinetic AV - VR Visual-Audio Production Interface
 course: Sinetic AV LTD
 date:   2015-11-05 22:21:59 +00:00
 image: /images/sine1.png
+image2: /images/sine2.png
 categories: projects
 patent: https://patents.google.com/patent/WO2016071697A1/en
 video: https://vimeo.com/155418055
