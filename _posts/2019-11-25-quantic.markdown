@@ -15,5 +15,5 @@ categories: projects
 patent: 
 video: 
 document: /pdfs/VMbizPlan.pdf
-sheets: <"https://1drv.ms/x/s!Ai82VJJ6xL3nmdUnRzjDyqApn1Uqfg?e=fqvlAv" rel="stylesheet" type="text/css">
+sheets: "https://1drv.ms/x/s!Ai82VJJ6xL3nmdUnRzjDyqApn1Uqfg?e=fqvlAv"
 ---
