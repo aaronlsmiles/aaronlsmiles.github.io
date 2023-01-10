@@ -6,5 +6,6 @@ image: /images/sine1.png
 categories: projects
 patent: https://patents.google.com/patent/WO2016071697A1/en
 video: https://vimeo.com/155418055
+document: /pdfs/sineIPV_20Oct2015.pdf
 ---
 Sinetic AV was a VR and gesture-controlled spatial audio-visual production software. 
