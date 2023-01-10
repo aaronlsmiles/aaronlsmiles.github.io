@@ -11,4 +11,4 @@ authors:
 document: /pdfs/battleReport.pdf
 code: https://github.com/aaronlsmiles/IBM-Foursquare-API-Capstone
 ---
-  
+Capstone assignment of the IBM Professional Certificate in Data Science on Coursera, using the Foursquare API to perform geolocation data analysis and visualisation. The goal of my approach was to investigate restaurants in London and cluster them based on different cuisines, then to heatmap the different boroughs based on the density of different cuisines per area. Following that I aimed to use the API call to check if which restaurants were still operating during COVID and visualise such data. However, there were not enough free API calls to achieve this properly, so I did my best with the data I had at hand, but the model is setup such that it would be easy to obtain with enough Foursquare API credits.
