@@ -5,7 +5,8 @@ date:   2019-01-11 22:21:59 +00:00
 image: /images/battle2.jpg
 categories: projects
 author:
-authors: 
+authors:
+document: /pdfs/battleReport.pdf
 code: https://github.com/aaronlsmiles/IBM-Foursquare-API-Capstone
 ---
 Using an experimental stereo vision camera rig to obtain object depth in land-based and underwater experiments for providing mixed reality feedback to remote robot operators. User studies will be performed using a haptic glove and stereoscopic screen with a simulated robotic manipulator.  
