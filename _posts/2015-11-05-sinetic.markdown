@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sinetic AV: VR audio-visual production interface"
+title:  <a href="https://www.robotics.qmul.ac.uk/" >Sinetic AV: VR audio-visual production interface"</a>
 date:   2015-11-05 22:21:59 +00:00
 image: /images/sine1.png
 categories: projects
