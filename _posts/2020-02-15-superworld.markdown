@@ -14,6 +14,6 @@ image8: /images/sw10.png
 categories: projects
 patent: 
 video: 
-document:
+document: /pdfs/swRewards.pdf
 ---
 Whilst interning at SuperWorld as a Product Manager, I worked on the AR and NFT Real Estate Map. 
