@@ -12,4 +12,4 @@ categories: design
 video: 
 document: /pdfs/TFF.pdf
 ---
-A collection of concept drawings, character designs, and storylines for a Final Fantasy inspired game that I lost myself in during the final couple years of secondary school whilst absorbed in FF7. 
+A collection of concept drawings, character designs, and storylines for a Final Fantasy inspired game that I lost myself in during the final couple years of secondary school (between 1997-2001, digitised in 2008) whilst absorbed in FF7. 
