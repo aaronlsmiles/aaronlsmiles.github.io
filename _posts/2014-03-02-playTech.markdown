@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Play Technology Designs
-course: 
+course: D&AD
 date: 2014-03-02 22:21:59 +00:00
 image: /images/lego1.png
 image2: /images/toy1.png
