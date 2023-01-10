@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  The Atom
+title: The Atom
 course: Sinetic AV LTD
-date:   2013-06-06 22:21:59 +00:00
+date: 2013-06-06 22:21:59 +00:00
 image: /images/sine3.png
 image2: /images/sine4.png
 image3: 
