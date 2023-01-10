@@ -9,8 +9,8 @@ image3: /images/sw2.png
 image4: /images/sw8.png
 image5: /images/sw6.png
 image6: /images/sw7.png
-image7: /images/sw9.png
-image8: /images/sw10.png
+image7: /images/sw9.gif
+image8: /images/sw10.gif
 categories: projects
 patent: 
 video: 
