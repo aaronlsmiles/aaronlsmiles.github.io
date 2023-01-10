@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Haptic and Telerobotic Technology Designs
+course: 
+date: 2014-03-02 22:21:59 +00:00
+image: /images/exo1.png
+image2: /images/surge1.png
+image3: /images/surge2.png
+image4:
+image5:
+image6:
+categories: design
+video: 
+document:
+---
+A sample of different haptic and telerobotic technology concept designs I created years before I even got into robotics.
