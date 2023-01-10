@@ -3,11 +3,11 @@ layout: post
 title:  Logo designs
 course: 
 date: 2014-03-02 22:21:59 +00:00
-image: /images/logos/sineLogos1.jpg
-image2: /images/logos/sineLogos2.jpg
-image3: /images/logos/sineLogos3.jpg
-image4: /images/logos/sineLogos5.png
-image5: /images/logos/VMlogos.png
+image: /images/logos/VMlogos.jpg
+image2: /images/logos/sineLogos1.jpg
+image3: /images/logos/sineLogos2.jpg
+image4: /images/logos/sineLogos3.png
+image5: /images/logos/sineLogos5.png
 image6: 
 categories: design
 video: 
