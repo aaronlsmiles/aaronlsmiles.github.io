@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Logo designs
-course: 
+course: misc.
 date: 2014-03-02 22:21:59 +00:00
 image: /images/logos/VMlogos.png
 image2: /images/logos/sineLogos1.jpg
