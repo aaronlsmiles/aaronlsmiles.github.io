@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Logo designs
+title:  Logo Designs
 course: misc.
 date: 2014-03-02 22:21:59 +00:00
 image: /images/logos/VMlogos.png
