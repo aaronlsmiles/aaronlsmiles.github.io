@@ -9,6 +9,7 @@ image3: /images/food3.png
 image4: /images/food4.png
 image5: /images/food5.png
 image6: /images/food6.png
+image7: /images/food7.jpg
 categories: design
 video: 
 document:
