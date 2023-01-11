@@ -4,7 +4,7 @@ title: VReeMind - VR Phobia App (MBA Capstone)
 course: <a href="https://www.quantic.mba/">Quantic</a>
 date: 2019-11-25 22:21:59 +00:00
 image: /images/VM2.png
-image2:/images/emba1.png
+image2: /images/emba1.png
 image3:
 image4:
 image5:
