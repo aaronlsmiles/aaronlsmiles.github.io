@@ -13,4 +13,5 @@ categories: design
 video: 
 document:
 ---
-A sample of different play technology concept designs I created for fun and for D&AD briefs for Lego and Hasbro.
+A sample of different play technology concept designs (inc. Lego smart bricks) I created for fun and for D&AD briefs for Lego and Hasbro.
+  
