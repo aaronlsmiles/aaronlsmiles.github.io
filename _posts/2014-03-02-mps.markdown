@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Tape Measure Innovation Design
+course: D&AD
+date: 2014-03-02 22:21:59 +00:00
+image: /images/mps.png
+image2:
+image3: 
+image4:
+image5:
+image6:
+categories: design
+video: 
+document:
+---
+A tape measure innovation concept for fun, based on a D&AD brief for a home hardware brand.
