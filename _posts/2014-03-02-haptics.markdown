@@ -2,7 +2,7 @@
 layout: post
 title:  Haptic and Telerobotic Technology Designs
 course: misc.
-date: 2014-03-02 22:21:59 +00:00
+date: 2013-011-02 22:21:59 +00:00
 image: /images/exo1.png
 image2: /images/surge1.png
 image3: /images/surge2.png
