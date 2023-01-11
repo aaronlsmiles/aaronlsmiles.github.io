@@ -21,4 +21,8 @@ sheets2: "https://1drv.ms/x/s!Ai82VJJ6xL3nmdUoepH9R5o3hrYtgQ?e=4TPVzm"
 sheets3: "https://1drv.ms/x/s!Ai82VJJ6xL3nmdUl2IEopZpbNQxTPQ?e=O40UqJ"
 sheets4: "https://1drv.ms/x/s!Ai82VJJ6xL3nmdUmegEx0ECzfLrbjQ?e=Q8zg21"
 ---
-Worked as a team of four on the MBA Capstone project to write a business plan, financial model, and product/service design for a new startup venture.  We decided as a group to work on a business with a common good. Being a passionate technologist I pitched for whatever idea we decided on to leverage current SOTA technology to create our niche.  From there, VReeMind, was born! A mental health app utilising virtual reality (VR) technology.  I leaded the team by producing the product concept design, market placement using Blue Ocean Strategy and the strategy canvas (<i>image2</i>), branding (<i>image3</i>), and initial financial model (<i>sheets2</i>) and Cap Table/ROI analysis (<i>sheets3</i>). Our team accounting specialist and I worked together to complete the final financial model (<i>sheets</i>), and user model/pricing strategy (<i>sheets4</i>).
+Worked as a team of four on the MBA Capstone project to write a business plan, financial model, and product/service design for a new startup venture. 
+  
+We decided as a group to work on a business with a common good. Being a passionate technologist I pitched for whatever idea we decided on to leverage current SOTA technology to create our niche.  From there, VReeMind, was born! A mental health app utilising virtual reality (VR) technology. 
+  
+I leaded the team by producing the product concept design, market placement using Blue Ocean Strategy and the strategy canvas (<i>image2</i>), branding (<i>image3</i>), and initial financial model (<i>sheets2</i>) and Cap Table/ROI analysis (<i>sheets3</i>). Our team accounting specialist and I worked together to complete the final financial model (<i>sheets</i>), and user model/pricing strategy (<i>sheets4</i>).
