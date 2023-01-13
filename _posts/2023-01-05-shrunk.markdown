@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Achieving human stereopsis in telexistence of micro robots <i>(Work in progress)</i>"
+date:   2023-01-05 13:42:11 +00:00
+image: /images/te2.jpg
+image2: /images/
+image3: /images/te1.jpg
+categories: cv
+author: "Aaron Smiles"
+authors: "<strong>Aaron Smiles</strong>"
+#diagram: /images/nf1.png
+#diagram2: /images/nf2.png
+---
+Stereopsis is important in virtual reality for natural depth perception. If the stereo baseline is unnatural it will induce headaches and simulator sickness.
+  
+An exciting use case of telexistence is being able to control tiny robotic avatars, reminiscent of <i>Honey, I Shrunk the Kids</i>.
+    
+The human pupillary distance is average 63mm: <i>How can we scale human stereopsis and depth perception proportionately for human operator vision to be the perspective eyes of a micro-, or nano-scale robot?</i>
