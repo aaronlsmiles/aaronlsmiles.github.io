@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "TeleLego: Lego Telexistence <i>(Work in progress)</i>"
+course: QMUL
 date:   2023-01-05 13:42:11 +00:00
 image: /images/telego1.jpg
+image2: /images/telego.jpg
 categories: projects
 #author: "Aaron Smiles"
 #authors: "<strong>Aaron Smiles</strong>"
