@@ -4,8 +4,8 @@ title: "TeleLego: Lego Telexistence <i>(Work in progress)</i>"
 date: 2023-01-13 13:42:11 +00:00
 image: /images/telego.jpg
 categories: projects
-author: "Aaron Smiles"
-authors: "<strong>Aaron Smiles</strong>"
+#author: "Aaron Smiles"
+#authors: "<strong>Aaron Smiles</strong>"
 ---
 Enabling a user to <i>shrink</i> down into their Lego set as one of their Lego models. Fixing a Raspberry Pi stereo camera module to a Lego Mindstorms robot to be the eyes of the robot, that can be viewed in a VR head-mounted dispay (HMD). The Lego robotic avatar can then be controlled in VR from the perspective of the robot in the Lego set world. The head of the robot will turn with the head of the user/HMD, as will the arms, so the user can interact with the Lego world. 
   
