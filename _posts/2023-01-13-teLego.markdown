@@ -3,7 +3,7 @@ layout: post
 title: "TeleLego: Lego Telexistence <i>(Work in progress)</i>"
 date: 2023-01-13 13:42:11 +00:00
 image: /images/telego.jpg
-categories: cv
+categories: projects
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
 ---
