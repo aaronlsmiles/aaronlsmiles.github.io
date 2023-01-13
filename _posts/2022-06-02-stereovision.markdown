@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mixed Reality Human-Robot Perception using Stereo Vision" <i>(Work in progress)</i>
+title:  "Mixed Reality Human-Robot Perception using Stereo Vision <i>(Work in progress)</i>"
 date:   2022-06-02 22:21:59 +00:00
 image: /images/sv1.png
 categories: cv
