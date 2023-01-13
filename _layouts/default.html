@@ -111,6 +111,15 @@
               {% endif %}
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
+              {% if post.image %}
+              <a href="{{post.image}}">image</a> /
+              {% endif %}
+              {% if post.image2 %}
+              <a href="{{post.image2}}">image 2</a> /
+              {% endif %}
+              {% if post.image3 %}
+              <a href="{{post.image3}}">image 3</a> /
+              {% endif %}
               {% endif %}
               <p></p>
               {{ post.excerpt }}
