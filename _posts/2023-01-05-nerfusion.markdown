@@ -7,6 +7,7 @@ image2: /images/nf2.png
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
+code: https://github.com/aaronlsmiles/NeRFusion
 ---
 Exploring diffusion with natural language and editable neural radiance fields (NeRF) in 3D reconstructed environments towards understanding applications in human-robot interaction and spatial computing.
   
