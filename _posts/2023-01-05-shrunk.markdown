@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Achieving human stereopsis in telexistence of micro robots <i>(Work in progress)</i>"
+title:  "Exploding NeRF and achieving human stereopsis in telexistence of micro robots <i>(Work in progress)</i>"
 date:   2023-01-05 13:42:11 +00:00
 image: /images/te2.jpg
 image2: /images/so2.jpg
@@ -8,8 +8,6 @@ image3: /images/te1.jpg
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
-#diagram: /images/nf1.png
-#diagram2: /images/nf2.png
 ---
 Stereopsis is important in virtual reality for natural depth perception. If the stereo baseline is unnatural it will induce headaches and simulator sickness.
   
