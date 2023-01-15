@@ -13,4 +13,4 @@ Stereopsis is important in virtual reality for natural depth perception. If the 
   
 An exciting use case of telexistence is being able to control tiny robotic avatars, reminiscent of <i>Honey, I Shrunk the Kids</i>.
     
-The human pupillary distance is average 63mm: <i>How can we scale human stereopsis and perception proportionately from the perspective of the "eyes" of a micro-, or nano-scale, or super-sized robot?</i>
+The human pupillary distance is average 63mm: <i>How can we scale human stereopsis and perception, or the environment, proportionately from the perspective of the "eyes" of a micro- or nano-scale (or super-sized) robot?</i>
