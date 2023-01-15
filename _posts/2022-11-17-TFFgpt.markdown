@@ -14,5 +14,5 @@ video:
 document: /pdfs/TFF.pdf
 ---
 An ongoing project using GPT to expand my game design from high school and eventually (hopefully) bring it to life, when GPT4 is released. 
-
+  
 Images and concept art done using Stable Diffusion.
