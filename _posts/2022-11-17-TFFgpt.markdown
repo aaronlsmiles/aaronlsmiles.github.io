@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GPT's <i>The Final Fantasy</i> Game Design
+title: GPT's <i>The Final Fantasy</i> Game Design (TFF 2.0)
 course: personal
 date: 2022-11-17 11:11:11 +00:00
 image: /images/tffSD1.png
