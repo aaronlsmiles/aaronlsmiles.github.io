@@ -3,7 +3,7 @@ layout: post
 title: GPT's <i>The Final Fantasy</i> Game Design
 course: personal
 date: 2022-11-17 11:11:11 +00:00
-image: /images/FFfront.jpg
+image: /images/tffSD1.png
 image2:
 image3:
 image4: 
@@ -13,4 +13,6 @@ categories: design
 video: 
 document: /pdfs/TFF.pdf
 ---
-An ongoing project using GPT to expand my game design from high school and eventually (hopefully) bring it to life, when GPT4 is released.
+An ongoing project using GPT to expand my game design from high school and eventually (hopefully) bring it to life, when GPT4 is released. 
+
+Images and concept art done using Stable Diffusion.
