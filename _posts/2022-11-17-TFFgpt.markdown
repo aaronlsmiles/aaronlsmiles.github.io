@@ -12,7 +12,8 @@ image6:
 categories: design
 video: 
 document: /pdfs/TFFgpt1.pdf
-document2: /pdfs/TFF.pdf
+document2: /pdfs/TFFchoc.pdf
+document3: /pdfs/TFF.pdf
 ---
 An ongoing project using GPT to expand my game design from high school and eventually (hopefully) bring it to life, when GPT4 is released. 
   
