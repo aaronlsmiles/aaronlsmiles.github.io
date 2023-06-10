@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Review of Text-to-Music/Audio LLMs and Generative AI <i>(Work in progress)</i>"
+date:   2023-05-05 13:42:11 +00:00
+image: /images/meta-musicgen.png
+categories: cv
+author: "Aaron Smiles"
+authors: "<strong>Aaron Smiles</strong>"
+---
+Review of SOTA Text-to-Music (TTM) and Text-to-Audio (TTA) large language models (LLMs), including transformer-based approaches: MusicGen (Meta), MusicLM (Google), AudioLM (Google), Jukebox (OpenAI); diffusion-based approaches: AudioLDM; and, GAN-based approaches: MeLoDy (Bytedance).
