@@ -3,7 +3,7 @@ layout: post
 title:  "Mixed Reality Human-Robot Perception using Stereo Vision in Remote and Hostile Environments & Vision Transformers for Keypoint Deserts <i>(Work in progress)</i>"
 date:   2022-06-02 22:21:59 +00:00
 image: /images/sv1.png
-image2: /images/matscatter.png
+image2: /images/matScatter.png
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
