@@ -8,4 +8,4 @@ categories: projects
 #author: "Aaron Smiles"
 #authors: "<strong>Aaron Smiles</strong>"
 ---
-Managing the development of a suite of generative audio tools using LLMs, transformers, and diffusion. 
+Managed the development and deployment of a suite of generative AI audio tools using LLMs, transformers, and diffusion. 
