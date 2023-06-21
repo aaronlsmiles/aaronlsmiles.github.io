@@ -3,7 +3,6 @@ layout: post
 title:  "Mixed Reality and AIGC Human-Robot Interaction <i>(Work in progress)</i>"
 date:   2023-06-22 22:21:59 +00:00
 image: /images/zed-mini.jpg
-#image2: 
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
