@@ -6,7 +6,6 @@ image: /images/zed-mini.jpg
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
-code: 
 ---
 Using a Zed Mini with a VR HMD and two simulated robotic end effectors to perform mixed reality HRI experiments. 
   
