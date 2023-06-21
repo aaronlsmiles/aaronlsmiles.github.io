@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stereo Vision for Mixed Reality Human-Robot Perception"
-date:   2022-06-02 22:21:59 +00:00
+date:   2022-11-02 22:21:59 +00:00
 image: /images/sv1.png
 image2: /images/matScatter.png
 categories: cv
