@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review of Text-to-Music/Audio LLMs and Generative AI <i>(Work in progress)</i>"
+title:  "Review of Text-to-Audio LLMs and Generative Music AI <i>(Work in progress)</i>"
 date:   2023-05-05 13:42:11 +00:00
 image: /images/meta-musicgen.png
 categories: cv
