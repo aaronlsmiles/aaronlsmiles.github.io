@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Mixed Reality and AIGC Human-Robot Interaction <i>(Work in progress)</i>"
+title: "Robotic Metaverse: Mixed Reality and AIGC in Collaborative and Interoperable Multi-Agent Human-Robot Interaction <i>(Work in progress)</i>"
 date: 2023-06-20 22:21:59 +00:00
 image: /images/zed-mini.jpg
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
 ---
-Using a Zed Mini with a VR HMD and two simulated robotic end effectors to perform mixed reality HRI experiments. 
+3D computer vision and 3D AI-generated content (AIGC) research in Unity using a Zed Mini with a VR HMD investigating interoperable multi-agent collaborative robot (cobot) scenarios. The goal of the research is to explore various human-robot interaction (HRI), or human-remote robot-robot interaction, scenarios using mixed reality, NLP, and AIGC. Such scenarios include:
+
+i) Using two simulated robotic end effectors to perform assited grasping experiments.
+ii) AIGC mixed reality cues for cobot intent.
+iii) Bi-directional mixed reality cobot signals: We instruct robot, robot instructs us.
    
-Futhermore, AI generated content (AIGC) will be investigated in the mixed reality environment for teleoperation use cases. 
     
