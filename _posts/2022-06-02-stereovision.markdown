@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stereo Vision for Mixed Reality Human-Robot Perception"
+title:  "Implementation of a Stereo Vision System for a Mixed Reality Robot Teleoperation Simulator"
 date:   2022-11-02 22:21:59 +00:00
 image: /images/sv1.png
 image2: /images/matScatter.png
@@ -9,8 +9,4 @@ author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
 code: https://github.com/aaronlsmiles/StereoPerception
 ---
-Using an experimental stereo vision camera rig to obtain object depth in land-based and underwater experiments for providing mixed reality feedback to remote robot operators on distance from the end effector to objects for assisted grasping. Scenarios that are considered include search and rescue, nuclear engineering, subsea engineering, and space robotics.
-    
-Various objects and backgrounds are tested during experiments and found that environments that are dense in keypoints perform better for block-matching. Scenes and/or objects with few keypoints are more difficult to estimate depth. Masks can be used to avoid this problem for objects. However, scenes with few keypoints or limited keypoint diversity appear to be the biggest contributor to poor depth estimation. 
-    
-Such scenes with few keypoints are common in underwater worlds, so future work would investigate SOTA vision transformers for stereo matching for improving block-matching in scenes with limited keypoints. 
+This paper presents the preliminary work on a stereo vision system designed for a mixed reality-based simulator dedicated to robotic telemanipulation. The simulator encompasses a 3D visual display, stereo cameras, a desktop haptic interface, and a virtual model of a remote robotic manipulator. The integration of the stereo vision system enables accurate distance measurement in the remote environment and precise visual alignment between the cameras' captured scene and the graphical representation of the virtual robot model. This paper delves into the technical aspects of the developed stereo system and shares the outcomes of its preliminary evaluation.
