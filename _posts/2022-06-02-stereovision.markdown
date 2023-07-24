@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Implementation of a Stereo Vision System for a Mixed Reality Robot Teleoperation Simulator"
-date:   2023-07-24 22:21:59 +00:00
+date:   2023-07-23 22:21:59 +00:00
 image: /images/sv1.png
 image2: /images/matScatter.png
 categories: cv
