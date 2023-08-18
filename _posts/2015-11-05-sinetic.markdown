@@ -7,7 +7,8 @@ image: /images/sine1.png
 image2: /images/sine2.png
 categories: projects
 patent: https://patents.google.com/patent/WO2016071697A1/en
-video: https://vimeo.com/155418055
+video: /images/sinetic-promo1-compressed.mp4
+https://vimeo.com/155418055
 document: /pdfs/sineIPV_20Oct2015.pdf
 ---
 Sinetic AV was a VR and gesture-controlled spatial visual-audio production software, for making spatial music in an immersive visual environment using visual objects <i>moulded</i> by hand. Visual properties, such as colour and shape, corresponded to audio prperties, such as frequency and sound wave shape, respectively. 
