@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Review of Text-to-Audio LLMs and Generative Music AI <i>(Work in progress)</i>"
+title:  "Life or Death: Detection and Classification for Life Signs of Sea Creatures Trapped in Ghost Nets <i>(Work in progress)</i>"
 date:   2023-05-05 13:42:11 +00:00
 image: /images/meta-musicgen.png
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
 ---
-Review of SOTA Text-to-Music (TTM) and Text-to-Audio (TTA) large language models (LLMs), including transformer-based approaches: MusicGen (Meta), MusicLM (Google), AudioLM (Google), Jukebox (OpenAI); diffusion-based approaches: AudioLDM; and, GAN-based approaches: MeLoDy (Bytedance).
+Underwater robots can replace human divers for removing ghost nets from the ocean. However, most ghost nets have also entangled many sea creatures. There are many methods for removing ghost nets, which is highly dependent on the situation. For instance, balloons can be used to surface the nets quickly, or they may need cutting free if the net is trapped on coral. However, entangled sea creatures like fish and turtles can make the situation even more complicated for autonomous systems, and freeing any living creatures must be done before removing the net from the sea. Before that happens, the system must identify the creature and check for signs of life. To our knowledge, no literature exists on machine learning techniques for detecting whether different sea creatures are alive or dead. We propose a combination of computer vision, deep learning, and sensor fusion techniques to create a system that can first classify the species, detecting species-specific features, and then check for life-affirming changes across image frames, taking into account ocean currents.
