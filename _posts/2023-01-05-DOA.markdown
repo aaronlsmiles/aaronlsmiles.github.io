@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Life or Death: Detection and Classification for Life Signs of Sea Creatures Trapped in Ghost Nets <i>(Work in progress)</i>"
+title:  "DOA: Detection of Life Signs of Sea Creatures Entangled in Ghost Nets for DOA Classification <i>(Work in progress)</i>"
 date:   2023-10-05 13:42:11 +00:00
-image: /images/meta-musicgen.png
+image: /images/ghostnet1.png
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
