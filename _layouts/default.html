@@ -39,7 +39,7 @@
               <h1>
                 Aaron Smiles
               </h1>
-              <p>I am an EngD candidate in Mixed Reality and 3D Computer Vision at <a href="https://www.robotics.qmul.ac.uk/">The Centre for Advanced Robotics @ Queen Mary (ARQ)</a>, part of the <a href="https://hair-robotics.qmul.ac.uk/">Human Augmentation & Interactive Robotics (HAIR) team</a>, at Queen Mary University London. My EngD supervisors are Ildar Farkhatdinov and Changjae Oh.
+              <p>I am an EngD candidate in Augmented Telepresence and 3D Computer Vision for Underwater Robot Tele-Collection of Marine Plastic at <a href="https://www.robotics.qmul.ac.uk/">The Centre for Advanced Robotics @ Queen Mary (ARQ)</a>, part of the <a href="https://hair-robotics.qmul.ac.uk/">Human Augmentation & Interactive Robotics (HAIR) team</a>, at Queen Mary University London. My EngD supervisors are Ildar Farkhatdinov and Changjae Oh.
               </p>
               <p>
                 From 2011 to 2017, I ran a software startup developing VR audio-visual production tools for the Oculus Rift DK1, where I worked on <a href="https://patents.google.com/patent/WO2016071697A1/en">visual spatial sound rendering in virtual environments</a>.
@@ -68,7 +68,7 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
               <p>
-                My research interests include transformers, diffusion, spatial computing, human-computer interaction, computer vision, robotics, telepresence, machine learning, gaming, and graphics.
+                My research interests include computer vision and deep learning, mixed reality, robot teleoperation, ocean engineering, and the circular economy.
               </p>
             </td>
           </tr>
@@ -121,6 +121,12 @@
               {% endif %}
               {% if post.image3 %}
               <a href="{{post.image3}}">image 3</a> /
+              {% endif %}
+              {% if post.video %}
+              <a href="{{post.video}}">demo video</a> /
+              {% endif %}
+              {% if post.video2 %}
+              <a href="{{post.video2}}">demo video 2</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
