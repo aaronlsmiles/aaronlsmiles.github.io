@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DOA: Detection of Life Signs of Sea Creatures Entangled in Ghost Nets for DOA Classification <i>(Work in progress)</i>"
+title:  "DOA: Detection of Life Signs of Sea Creatures Entangled in Ghost Nets for DOA Classification <i>(Future work)</i>"
 date:   2023-10-05 13:42:11 +00:00
 image: /images/ghostnet1.png
 categories: cv
