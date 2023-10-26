@@ -2,7 +2,7 @@
 layout: post
 title: "ATSEA: Augmented Telepresence in robot SEAfloor plastic cleanup (IEEE OCEANS 2024, Singapore) <i>(Work in progress)</i>"
 date: 2023-10-20 22:21:59 +00:00
-image: /images/zed-mini.jpg
+image: /images/IMG_2100e.jpg
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
