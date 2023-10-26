@@ -1,16 +1,12 @@
 ---
 layout: post
-title: "The Robotic Metaverse: Mixed Reality and AIGC in Collaborative and Interoperable Multi-Agent Human-Robot Interaction <i>(Work in progress)</i>"
-date: 2023-06-20 22:21:59 +00:00
+title: "ATSEA: Augmented Telepresence in robot SEAfloor plastic cleanup (IEEE OCEANS 2024, Singapore)<i>(Work in progress)</i>"
+date: 2024-04-20 22:21:59 +00:00
 image: /images/zed-mini.jpg
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
 ---
-3D computer vision and 3D AI-generated content (AIGC) research in Unity with Croquet and NVIDIA Omniverse using a Zed Mini with a VR HMD investigating interoperable multi-agent collaborative robot (cobot) scenarios. The goal of the research is to explore various human-robot interaction (HRI), or human-remote robot-robot interaction, scenarios using mixed reality, NLP, and AIGC. Such scenarios include:
-
-i) Using two simulated robotic end effectors to perform assited grasping experiments.   
-  ii) AIGC mixed reality cues for cobot intent.   
-  iii) Bi-directional mixed reality cobot signals: We instruct robot, robot instructs us.
+Not enough robots are used in the fight against ocean plastics. ROVs controlled by human operators can be used to collect ocean waste, but human depth perception underwater is obscured, especially on 2D screens. This can be made worse when objects are transparent and backgrounds are near blank, common in underwater scenes. We present work on an underwater augmented, or mixed reality, telepresence system that utilises stereo vision for 3D plastic bottle object detection and audiovisual aids to assist with ROV telemanipulation during plastic waste collection.  Initial tests with an unsynchronised pair of stereo cameras showed that block matching algorithms had difficulty finding matches with transparent materials. Using a synchronised stereo camera and a YOLO-based model, qualitative results are promising. We hypothesise that with our mixed reality telepresence system we can increase seafloor plastic bottle collection against traditional ROV end effector collection operation whilst reducing cognitive load. Supplementary material, including demo videos, can be found here: \url{https://github.com/aaronlsmiles/ATSEA}.
    
     
