@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Implementation of a Stereo Vision System for a Mixed Reality Robot Teleoperation Simulator"
+title:  "Implementation of a Stereo Vision System for a Mixed Reality Robot Teleoperation Simulator (TAROS 2023, Cambridge, UK)"
 date:   2023-07-23 22:21:59 +00:00
 image: /images/sv1.png
 image2: /images/matScatter.png
+paper: /pdfs/Smiles-2023-Implementation-of-a-stereo-vision-s.pdf
+poster: /pdfs/TAROS 23 Poster-final.pdf
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
