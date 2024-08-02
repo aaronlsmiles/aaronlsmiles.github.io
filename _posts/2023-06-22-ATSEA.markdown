@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ATSEA: Augmented Telepresence in robot SEAfloor plastic cleanup (IEEE OCEANS 2024, Singapore) <i>(Work in progress)</i>"
+title: "ATSEA: Augmented Telepresence in robot SEAfloor plastic cleanup <i>(WIP)</i>"
 date: 2023-10-20 22:21:59 +00:00
 image: /images/IMG_2100e.jpg
 video: /images/2D demo speed+.mp4
