@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring Stereo Vision Object Detection and Ranging in Underwater Environments"
 date: 2026-03-30 22:21:59 +00:00
-image: /images/TODO-add-thesis-thumbnail.jpg  # TODO: Add thumbnail image for thesis
+image: /images/thesis_cover.png  # TODO: Add thumbnail image for thesis
 paper: /pdfs/phd_pubs/
 categories: cv
 author: "Aaron Smiles"
