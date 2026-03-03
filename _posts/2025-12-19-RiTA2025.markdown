@@ -2,7 +2,7 @@
 layout: post
 title: "A Preliminary Study on Underwater Transparent Objects Detection with Stereo Vision: Air vs Freshwater"
 date: 2025-12-19 22:21:59 +00:00
-image: /images/TODO-add-RiTA2025-thumbnail.jpg  # TODO: Add thumbnail image for RiTA 2025
+image: /images/rita_title_slide.png # TODO: Add thumbnail image for RiTA 2025
 paper: /pdfs/phd_pubs/RiTA_25 v19 -FINAL.pdf
 categories: cv
 author: "Aaron Smiles, Changjae Oh, and Ildar Farkhatdinov"
