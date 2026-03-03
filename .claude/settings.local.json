@@ -4,7 +4,8 @@
       "Bash(python -c \":*)",
       "Bash(python3 -c \":*)",
       "WebFetch(domain:scholar.google.com)",
-      "WebFetch(domain:researchpublications.its.qmul.ac.uk)"
+      "WebFetch(domain:researchpublications.its.qmul.ac.uk)",
+      "Bash(cmd.exe /c del \"c:\\\\Users\\\\joini\\\\OneDrive\\\\Documents\\\\code-C\\\\aaronlsmiles.github.io\\\\aaronlsmiles.github.io\\\\_posts\\\\2024-09-15-OCEANS2024.markdown\")"
     ]
   }
 }

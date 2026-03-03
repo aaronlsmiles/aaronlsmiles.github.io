@@ -4,7 +4,6 @@ title: "ATSEA: Augmented Telepresence in Robot SEAfloor Plastic Cleanup"
 date: 2024-09-15 22:21:59 +00:00
 image: /images/TODO-add-OCEANS2024-thumbnail.jpg  # TODO: Add thumbnail image for OCEANS 2024
 paper: /pdfs/IEEE_OCEANS_2024_Abstract_vfinal.pdf
-published: false
 categories: cv
 author: "Aaron Smiles, Changjae Oh, and Ildar Farkhatdinov"
 authors: "<strong>Aaron Smiles</strong>, Changjae Oh, Ildar Farkhatdinov"
