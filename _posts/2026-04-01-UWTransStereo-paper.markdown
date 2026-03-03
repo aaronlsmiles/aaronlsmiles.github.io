@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Underwater Stereo Vision Dataset for Transparent Object Detection & Ranging (UW-TransStereo)"
-date: 2025-12-01 22:21:59 +00:00
+date: 2026-04-01 22:21:59 +00:00
 image: /images/TODO-add-UWTransStereo-thumbnail.jpg  # TODO: Add thumbnail image
 paper: /pdfs/phd_pubs/IEEE_DATA_Descriptor__Underwater_Stereo_Vision_Dataset_for_Transparent_Object_Detection___Ranging__UW_TransStereo_.pdf
 categories: cv
