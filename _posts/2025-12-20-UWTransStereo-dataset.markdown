@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "UW-TransStereo: Underwater Stereo Vision Dataset for Transparent Object Detection & Ranging"
-date: 2025-12-12 22:21:59 +00:00
-image: /images/TODO-add-dataset-thumbnail.jpg  # TODO: Add thumbnail image for dataset
+date: 2025-12-20 22:21:59 +00:00
+image: /images/bottle_rmse_heatmaps.png  # TODO: Add thumbnail image for dataset
 categories: datasets
 author: "Aaron Smiles, Ildar Farkhatdinov, and Changjae Oh"
 authors: "<strong>Aaron Smiles</strong>, Ildar Farkhatdinov, Changjae Oh"
