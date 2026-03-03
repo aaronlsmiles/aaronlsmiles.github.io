@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \":*)",
+      "Bash(python3 -c \":*)",
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:researchpublications.its.qmul.ac.uk)"
+    ]
+  }
+}

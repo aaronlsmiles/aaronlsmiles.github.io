@@ -65,7 +65,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/nv-prof2.jpeg">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/nv-prof3.jpg">
             </td>
           </tr>
         </table>
@@ -73,7 +73,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Research</h2>
+              <h2>Publications</h2>
               <p>
                 My research interests include AI, computer vision, robotics, and environmental engineering.
               </p>
@@ -129,9 +129,6 @@
               {% if post.image3 %}
               <a href="{{post.image3}}">image 3</a> /
               {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
               {% if post.paper %}
               <a href="{{post.paper}}">paper</a> /
               {% endif %}
@@ -142,7 +139,61 @@
               <a href="{{post.video2}}">video 2</a> /
               {% endif %}
               {% if post.link %}
-              <a href="{{post.link}}">paper</a> /
+              <a href="{{post.link}}">publisher</a> /
+              {% endif %}
+              {% if post.doi %}
+              <a href="{{post.doi}}">doi</a> /
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+        <br>
+        <br>
+        <br>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Datasets</h2>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'datasets' %}
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              {{post.authors}}
+
+              <br>
+              <em>{{post.venue}}</em>
+              {{ post.date | date: "%Y-%m" }}
+              <br>
+              {% if post.doi %}
+              <a href="{{post.doi}}">doi</a> /
+              {% endif %}
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a> /
+              {% endif %}
+              {% if post.code %}
+              <a href="{{post.code}}">code</a> /
+              {% endif %}
+              {% if post.image %}
+              <a href="{{post.image}}">image</a> /
+              {% endif %}
+              {% if post.link %}
+              <a href="{{post.link}}">link</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
@@ -273,7 +324,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'design' or != 'cv' and cat != 'projects' %}
+          {% if cat == 'design' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />

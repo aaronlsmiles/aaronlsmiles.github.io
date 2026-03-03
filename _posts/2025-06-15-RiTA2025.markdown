@@ -1,0 +1,12 @@
+---
+layout: post
+title: "A Preliminary Study on Underwater Transparent Objects Detection with Stereo Vision: Air vs Freshwater"
+date: 2025-06-15 22:21:59 +00:00
+image: /images/TODO-add-RiTA2025-thumbnail.jpg  # TODO: Add thumbnail image for RiTA 2025
+paper: /pdfs/phd_pubs/RiTA_25 v19 -FINAL.pdf
+categories: cv
+author: "Aaron Smiles, Changjae Oh, and Ildar Farkhatdinov"
+authors: "<strong>Aaron Smiles</strong>, Changjae Oh, Ildar Farkhatdinov"
+venue: "RiTA 2025, Springer"
+---
+This paper investigates how underwater conditions affect the detection and distance estimation of transparent plastic bottles using a stereo computer vision pipeline. We created a multi-environment dataset of stereo recordings with per-frame range logs in air and freshwater across common bottle types (empty and filled, smooth and textured) and marked distances. Compared with air, fresh water environment consistently increased errors and reduced reliability: the root mean squared distance error for the filled transparent bottle rose from 38 mm to 696 mm, and detection accuracy for textured empty bottles fell from 100% to 74.4%. A simple image enhancement increased the share of valid object-distance estimates from 41.6% to 50.8% but also raised the root mean squared distance error from 146.2 mm to 209.3 mm, revealing a trade-off between stability and precision. Selecting more stable viewing regions and filtering unreliable detections improved robustness (for example, reducing object-level error for the filled transparent bottle in air from 445 mm to 13 mm), but closing the gap between air and water will require methods that explicitly account for refraction and underwater imaging effects.
