@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sensing and Monitoring Canopy Growth: A Multi-Modal Survey of State-of-the-Art Technologies for Plant, Tree, and Forest Ecosystems"
-date: 2026-07-23 09:00:00 +00:00
+date: 2026-10-15 09:00:00 +00:00
 image: /images/canopy_survey_thumb.png
 paper: /pdfs/pubs/Canopy_Growth_SOTA_Survey.pdf
 categories: cv

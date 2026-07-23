@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Contour-Anchored Transparency-Aware Ranging for Underwater Stereo: Foundation Matchers, Flat-Port Refraction, and a Negative Result for Homogenisation"
-date: 2026-07-23 10:00:00 +00:00
+date: 2027-01-15 10:00:00 +00:00
 image: /images/uwts_e03_headline.png
 abstract: /pdfs/pubs/UW-TransStereo_Extended_Abstract.pdf
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
-venue: "Journal 2026 (TBC)"
+venue: "Journal 2027 (TBC)"
 ---
 Transparent objects defeat stereo matching — a conventional matcher sees through the surface and assigns the object its background disparity, a failure characterised by Wu et al. (ICRA 2023) as a corner case in stereo. Underwater the problem compounds: a flat air–water port refracts the optical path and biases every uncorrected depth estimate, while turbidity and backscatter collapse detection confidence. No published work addresses transparent-object stereo ranging underwater; the nearest neighbours handle underwater stereo without transparency, or transparency in air. This work builds on the <a href="https://zenodo.org/doi/10.5281/zenodo.16753748">UW-TransStereo dataset</a>, to our knowledge the only real-world dataset at that intersection.
 
