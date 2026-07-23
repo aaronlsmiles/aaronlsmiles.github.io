@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "A Harmonised Cross-Modal Accuracy Assessment of Forest Canopy Height and Biomass Estimation Methods: A Systematic Meta-Analysis (2020–2026)"
-date: 2026-07-22 09:00:00 +00:00
+date: 2027-04-15 09:00:00 +00:00
 image: /images/canopy_meta_thumb.png
 abstract: /pdfs/pubs/Canopy_Accuracy_MetaAnalysis_Extended_Abstract.pdf
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
-venue: "Journal 2026 (TBC)"
+venue: "Journal 2027 (TBC)"
 ---
 Accuracy figures for satellite- and airborne-derived forest canopy height and aboveground biomass are reported across widely incompatible conventions. Studies differ in the error metric used (RMSE, relative RMSE, R², bias, and combinations thereof), in the reference-data regime against which error is computed (field plots, airborne lidar, terrestrial laser scanning, or another satellite product), and in how — or whether — results are stratified by forest type. The consequence is that a practitioner choosing a sensor stack cannot compare a reported 4.2 m RMSE in a boreal conifer stand against a reported R² of 0.71 in tropical dense forest, because neither the metric nor the reference basis nor the biome is held constant. Published accuracy is abundant; comparable published accuracy is not.
 
