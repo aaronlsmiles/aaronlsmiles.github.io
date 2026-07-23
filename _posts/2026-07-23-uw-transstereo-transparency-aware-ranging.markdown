@@ -3,6 +3,7 @@ layout: post
 title: "Contour-Anchored Transparency-Aware Ranging for Underwater Stereo: Foundation Matchers, Flat-Port Refraction, and a Negative Result for Homogenisation"
 date: 2026-07-23 10:00:00 +00:00
 image: /images/uwts_e03_headline.png
+abstract: /pdfs/pubs/UW-TransStereo_Extended_Abstract.pdf
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
