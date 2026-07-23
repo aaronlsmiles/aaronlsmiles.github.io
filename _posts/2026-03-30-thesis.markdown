@@ -3,11 +3,11 @@ layout: post
 title: "Exploring Stereo Vision Object Detection and Ranging in Underwater Environments"
 date: 2026-03-30 22:21:59 +00:00
 image: /images/thesis_cover.png  # TODO: Add thumbnail image for thesis
-paper: /pdfs/phd_pubs/
+paper: /pdfs/phd_pubs/THESIS - Exploring_Stereo_Vision_Object_Detection_and_Ranging_in_Underwater_Environments-compressed.pdf
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
-venue: "EngD Thesis, Queen Mary University of London (under examination)"
+venue: "EngD Thesis, Queen Mary University of London"
 ---
 <!-- TODO: Replace this placeholder with the actual thesis abstract -->
 This EngD thesis explores stereo vision-based object detection and ranging in underwater environments, with a focus on transparent objects such as plastic bottles. The research spans camera calibration for underwater use, YOLO-based detection pipelines, stereo depth estimation, and evaluation across multiple aquatic conditions. The work contributes a multi-environment stereo dataset, analysis of detection and ranging accuracy for transparent and opaque objects in air and water, and methods for augmented telepresence to assist robotic underwater waste collection.
