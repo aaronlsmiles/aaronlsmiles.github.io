@@ -1,20 +1,20 @@
 ---
 layout: post
-title: GPT's <i>The Final Fantasy</i> Game Design (TFF 2.0)
+title: Original Science-Fantasy Universe (in development)
 course: personal
 date: 2022-11-17 11:11:11 +00:00
-image: /images/tffSD1.png
+image: /images/universe-cover.jpg
 image2:
 image3:
 image4: 
 image5: 
 image6: 
-categories: design
+categories: projects
 video: 
-document: /pdfs/TFFgpt1.pdf
-document2: /pdfs/TFFchoc.pdf
-document3: /pdfs/TFF.pdf
+document:
 ---
-An ongoing project using GPT to expand my game design from high school and eventually (hopefully) bring it to life, when GPT4 is released. 
+An original science-fantasy universe, built out from design work I did in my teens — rebuilt from the story material rather than restored, with the original art kept as raw reference rather than treated as canon.
   
-Images and concept art done using Stable Diffusion.
+Concept art is produced through a directed generative pipeline — local diffusion alongside hosted models — working in a black-and-white ink substrate. Each round is judged against criteria frozen before generation and logged in a findings loop, so the visual direction moves on evidence rather than on taste.
+  
+In development. Storyline and design documents are not public.
