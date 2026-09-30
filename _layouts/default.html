@@ -97,7 +97,7 @@
               <br>
               <em>{{post.venue}}</em>
               <br>
-              {{ post.date | date: "%Y-%m" }}
+              {% if post.date_label %}{{ post.date_label }}{% else %}{{ post.date | date: "%Y-%m" }}{% endif %}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
