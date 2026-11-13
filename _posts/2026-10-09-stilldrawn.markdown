@@ -6,7 +6,7 @@ image: /images/stilldrawn-violin-drift.jpg
 categories: cv
 author: "Aaron Smiles"
 authors: "<strong>Aaron Smiles</strong>"
-venue: "Submitted to arXiv (cs.CV, cross-listed cs.GR), 9 October 2026; in moderation"
+venue: "Preprint, Zenodo, November 2026 (doi:10.5281/zenodo.23965026)"
 code: https://github.com/aaronlsmiles/stilldrawn
 video: https://media.studionephele.com/films/v1/stilldrawn-explorer/16x9.mp4
 ---
