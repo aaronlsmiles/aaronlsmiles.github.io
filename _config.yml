@@ -93,3 +93,12 @@ exclude:
   - todo.txt
   - _temp/index.html
   - _temp/
+
+# Retired 13 Nov 2026 (studio card F8): index.html redirects to studionephele.com. Posts are kept in the repo but no
+# longer rendered, because `permalink: /` would write each one over the redirect page.
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      published: false
